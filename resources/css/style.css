@@ -1,0 +1,20 @@
+html{
+    background-color: black;
+}
+.centre{
+    text-align: center;
+}
+.verdana{
+    font-family: Verdana;
+}
+.white{
+    color: white;
+}
+.titleHeader{
+font-size: 50px;
+font-weight: normal;
+}
+.downloadApp{
+    color: aquamarine;
+    font-size: 16px;
+}
